@@ -1,9 +1,7 @@
 ## Obsession Detailing
+Weare a family run detailing business based in cornwall with a real passion for car care.
 
 Here at Obsession Detailing we have made it our goal to make Detailing simple by removing the complecated words and phrases and offering simple packages to suit your needs.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
