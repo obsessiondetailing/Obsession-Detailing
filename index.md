@@ -1,5 +1,7 @@
 ## Obsession Detailing
-[Image](/download.jpg)
+
+<img src="[Image](/download.jpg)" alt="Logo">
+
 Weare a family run detailing business based in cornwall with a real passion for car care.
 
 Here at Obsession Detailing we have made it our goal to make Detailing simple by removing the complecated words and phrases and offering simple packages to suit your needs.
