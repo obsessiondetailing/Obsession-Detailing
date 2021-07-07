@@ -7,7 +7,7 @@
   <li><a href="https://m.facebook.com/obsessiondetailed/" style="color:#C1D35C">Facebook</a></li>
 </ul>
 
-## Serices
+## Services
 - Polishing
 - Waxing
 
