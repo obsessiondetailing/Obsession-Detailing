@@ -1,6 +1,6 @@
 ## Obsession Detailing
 
-You can use the [editor on GitHub](https://github.com/obsessiondetailing/Obsession-Detailing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here at Obsession Detailing we have made it our goal to make Detailing simple by removing the complecated words and phrases and offering simple packages to suit your needs.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
