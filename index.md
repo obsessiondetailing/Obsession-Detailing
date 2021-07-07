@@ -2,7 +2,7 @@
 
 # Obsession Detailing
 We are a Professional Detailing Business based in Cornwall with multiple years experience working on a wide variety of vehicles.
-We know that detailing can be very difficult to understand so we have made it our goal to make our packages easy to understand, with that in mind we have removed the complicated phrases and re-designed our packages. 
+We know that detailing can be very difficult to understand so we have made it our goal to make our packages less complicated removing complex phrases and words.  
 
 ## Services:
 - ### Mini Detail
@@ -45,6 +45,18 @@ Protection against road grime and salts that tend to reduce vision.
 - ### Wheel Coating 
 Wheels are subject to road grime, tar, brake dust and heat and for this reason Wheel Coatings have to be durable. 
 ### Priced £75.00 (faces only) £150.00 (barrels & faces) 
+
+- ### Plastic Rejuvenate
+Faded plastic can be made to look better and more black. 
+### Priced from £50.00
+
+## Extras:
+- ### Engine Detail from £30.00
+Engine bay thorough degreasing and finished with CarPro Dressing on all plastics. 
+
+- ### Headlight Restoration from £30.00
+
+- ### Wet Sanding from £30.00
 
 <ul>
   <li><a href="https://www.instagram.com/obsessiondetailing/">Instagram</a></li>
