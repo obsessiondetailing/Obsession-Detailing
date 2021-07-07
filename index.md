@@ -7,4 +7,8 @@
   <li><a href="https://m.facebook.com/obsessiondetailed/" style="color:#C1D35C">Facebook</a></li>
 </ul>
 
+## Serices
+- Polishing
+- Waxing
+
 We are a family run detailing business based in cornwall with a real passion for car care.
