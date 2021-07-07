@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Obsession Detailing
 
 You can use the [editor on GitHub](https://github.com/obsessiondetailing/Obsession-Detailing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
