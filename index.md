@@ -15,11 +15,11 @@ Process takes 3-5 hours.
 - ### Enhancement Polish
 Designed for the customer whos car is suffering with dull paint and would like the car to look more reflective and glossy without going down the more expensive option of correction. Paintwork left protected for upto 3 months.
 ### Priced from £120.00
-- ### Single Stage Machine Polish
+- ### Single Stage Machine Correction
 One Machine Polishing step designed to remove upto 70% off scratches and swirls from the paintwork. Using the perfect pad and polish for your vehicle type this service will also add higher gloss levels. 
 Process takes 1-1.5 days.
 ### From £200.00
-- ### Multistage Machine Polish
+- ### Multistage Machine Correction
 If your paintwork is in a really bad state, has severe scratches, heavy swirling and oxidation then you may require a multistage correction. 
 Designed to accomplish 60-90% correction. 
 Plastics & Tyres Dressed. 
