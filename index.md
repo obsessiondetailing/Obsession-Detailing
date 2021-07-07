@@ -28,7 +28,7 @@ Process can take 2-5 days.
 
 ## Coatings:
 - ### Silica Paint Coating 6 Months
-Fantastic, durable all weather coating perfect for someone who doesn't need a 2+ Year coating but still wants the effects of a ceramic coating. 
+Fantastic, durable all weather coating perfect for someone who wants the slippery surface effect of a ceramic coating without the price tag.  
 ### Priced from £50.00
 
 - ### Ceramic Coating 2-5 Years
