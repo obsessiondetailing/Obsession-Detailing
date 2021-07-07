@@ -26,12 +26,24 @@ Process can take 2-5 days.
 ### Priced from £300.00 
 
 ## Coatings:
-- ### Ceramic Coating
+- ### Silica Paint Coating 6 Months
+Fantastic, durable all weather coating perfect for someone who doesn't need a 2+ Year coating but still wants the benefits of a ceramic coating. 
+### Priced from £50.00
+
+- ### Ceramic Coating 2-5 Years
 Ceramic Coating is a form of paint protection, designed to leave a strong bond over the paintwork which helps protect the surface against salt, dirt, tar, treesap, bird droppings,
 UV rays and harsh chemicals. 
 Ceramic Coating helps the vehicle to stay cleaner for longer with its hydrophobic qualities and makes washing the vehicle a lot easier. 
 Ceramic Coating also increases gloss levels.
 ### Priced from £150.00 (size dependant)
+
+- ### Glass Coating 
+Protection against road grime and salts that tend to reduce vision. 
+### Priced from £
+
+- ### Wheel Coating 
+Wheels are subject to road grime, tar, brake dust and heat and for this reason Wheel Coatings have to be durable. 
+### Priced £75.00 (faces only) £150.00 (barrels & faces) 
 
 <ul>
   <li><a href="https://www.instagram.com/obsessiondetailing/">Instagram</a></li>
