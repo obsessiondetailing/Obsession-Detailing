@@ -1,5 +1,3 @@
-## Obsession Detailing
-
 <img src="https://raw.githubusercontent.com/obsessiondetailing/Obsession-Detailing/gh-pages/download.jpg" alt="Logo">
 
 Weare a family run detailing business based in cornwall with a real passion for car care.
