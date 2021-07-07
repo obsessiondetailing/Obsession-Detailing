@@ -7,6 +7,7 @@ We know that detailing can be very difficult to understand so we have made it ou
 ## Services:
 - ### Mini Detail
 Entry stage into car detailing! After a thorough clean the vehicle will recieve a Clay Bar treatment which gives the paintwork that silky smooth feeling, hand dried, waxed adding 3 months protection and tyres and plastics dressed to finish.
+## £40.00 (Small) £50.00 (Medium) £60.00 (Large) £70.00 (XLarge)
 - ### Enhancement Polish
 - ### Single Stage Machine Polish
 - ### Multistage Machine Polish
