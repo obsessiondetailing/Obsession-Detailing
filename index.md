@@ -1,14 +1,12 @@
 <img src="https://raw.githubusercontent.com/obsessiondetailing/Obsession-Detailing/gh-pages/download.jpg" alt="Logo">
 
 # Obsession Detailing
+We are a Professional Detailing Business based in Cornwall with multiple years experience working on a wide variety of vehicles.
+We know that detailing can be very difficult to understand so we have made it our goal to make our packages easy to understand, with that in mind we have removed the complicated phrases and re-designed our packages. 
+
 
 <ul>
-  <li><a href="https://www.instagram.com/obsessiondetailing/" style="color:#C1D35C">Instagram</a></li>
-  <li><a href="https://m.facebook.com/obsessiondetailed/" style="color:#C1D35C">Facebook</a></li>
+  <li><a href="https://www.instagram.com/obsessiondetailing/">Instagram</a></li>
+  <li><a href="https://m.facebook.com/obsessiondetailed/">Facebook</a></li>
 </ul>
 
-## Services
-- Polishing
-- Waxing
-
-We are a family run detailing business based in cornwall with a real passion for car care.
