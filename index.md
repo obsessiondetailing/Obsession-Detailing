@@ -14,10 +14,11 @@ Process takes 3-5 hours.
 ### £40.00 (Small) £50.00 (Medium) £60.00 (Large) £70.00 (Xlarge)
 - ### Enhancement Polish
 Designed for the customer whos car is suffering with dull paint and would like the car to look more reflective and glossy without going down the more expensive option of correction. Paintwork left protected for upto 3 months.
+### Priced from £120.00
 - ### Single Stage Machine Polish
 One Machine Polishing step designed to remove upto 70% off scratches and swirls from the paintwork. Using the perfect pad and polish for your vehicle type this service will also add higher gloss levels. 
 Process takes 1-1.5 days.
-### £180.00-£300.00
+### From £200.00
 - ### Multistage Machine Polish
 If your paintwork is in a really bad state, has severe scratches, heavy swirling and oxidation then you may require a multistage correction. 
 Designed to accomplish 60-90% correction. 
@@ -27,7 +28,7 @@ Process can take 2-5 days.
 
 ## Coatings:
 - ### Silica Paint Coating 6 Months
-Fantastic, durable all weather coating perfect for someone who doesn't need a 2+ Year coating but still wants the benefits of a ceramic coating. 
+Fantastic, durable all weather coating perfect for someone who doesn't need a 2+ Year coating but still wants the effects of a ceramic coating. 
 ### Priced from £50.00
 
 - ### Ceramic Coating 2-5 Years
@@ -39,7 +40,7 @@ Ceramic Coating also increases gloss levels.
 
 - ### Glass Coating 
 Protection against road grime and salts that tend to reduce vision. 
-### Priced from £
+### Priced from £100
 
 - ### Wheel Coating 
 Wheels are subject to road grime, tar, brake dust and heat and for this reason Wheel Coatings have to be durable. 
