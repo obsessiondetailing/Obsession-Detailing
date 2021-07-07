@@ -27,7 +27,7 @@ Process can take 2-5 days.
 ### Priced from £300.00 
 
 ## Coatings:
-- ### Silica Paint Coating 6 Months
+- ### SiO2 Paint Coating 6 Months
 Fantastic, durable all weather coating perfect for someone who wants the slippery surface effect of a ceramic coating without the price tag.  
 ### Priced from £50.00
 
