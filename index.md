@@ -1,36 +1,10 @@
 <img src="https://raw.githubusercontent.com/obsessiondetailing/Obsession-Detailing/gh-pages/download.jpg" alt="Logo">
 
-Weare a family run detailing business based in cornwall with a real passion for car care.
+# Obsession Detailing
 
-Here at Obsession Detailing we have made it our goal to make Detailing simple by removing the complecated words and phrases and offering simple packages to suit your needs.
-### Markdown
+<ul>
+  <li><a href="https://www.instagram.com/obsessiondetailing/">Instagram</a></li>
+  <li><a href="https://m.facebook.com/obsessiondetailed/">Facebook</a></li>
+</ul>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/obsessiondetailing/Obsession-Detailing/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+We are a family run detailing business based in cornwall with a real passion for car care.
