@@ -6,10 +6,11 @@ We know that detailing can be very difficult to understand so we have made it ou
 
 ## Services:
 - ### Mini Detail
-Entry stage into car detailing! Perfect for someone who wants a professional touch, silky smooth paintwork, freshly waxed gloss and 3 months protection applied. 
+Entry stage into car detailing! Perfect for someone who wants a professional touch, silky smooth paintwork, freshly waxed gloss and 3 months protection applied without having any machine work. 
 Plastics & Tyres Dressed. 
 Glass Polished. 
 Door Shuts Cleaned. 
+Process takes 3-5 hours.
 ### £40.00 (Small) £50.00 (Medium) £60.00 (Large) £70.00 (Xlarge)
 - ### Enhancement Polish
 Designed for the customer whos car is suffering with dull paint and would like the car to look more reflective and glossy without going down the more expensive option of correction. Paintwork left protected for upto 3 months.
