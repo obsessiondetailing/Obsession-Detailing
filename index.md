@@ -17,6 +17,7 @@ Designed for the customer whos car is suffering with dull paint and would like t
 ### Priced from £120.00
 - ### Single Stage Machine Correction
 One Machine Polishing step designed to remove upto 70% off scratches and swirls from the paintwork. Using the perfect pad and polish for your vehicle type this service will also add higher gloss levels. 
+Plastics & Tyres dressed.
 Process takes 1-1.5 days.
 ### From £200.00
 - ### Multistage Machine Correction
@@ -24,7 +25,7 @@ If your paintwork is in a really bad state, has severe scratches, heavy swirling
 Designed to accomplish 60-90% correction. 
 Plastics & Tyres Dressed. 
 Process can take 2-5 days. 
-### Priced from £300.00 
+### Priced from £400.00 
 
 ## Coatings:
 - ### SiO2 Paint Coating 6 Months
@@ -38,11 +39,11 @@ Ceramic Coating helps the vehicle to stay cleaner for longer with its hydrophobi
 Ceramic Coating also increases gloss levels.
 ### Priced from £150.00 (size dependant)
 
-- ### Glass Coating 
+- ### Glass Coating upto 2 Years
 Protection against road grime and salts that tend to reduce vision. 
 ### Priced from £100
 
-- ### Wheel Coating 
+- ### Wheel Coating upto 2 Years
 Wheels are subject to road grime, tar, brake dust and heat and for this reason Wheel Coatings have to be durable. 
 ### Priced £75.00 (faces only) £150.00 (barrels & faces) 
 
