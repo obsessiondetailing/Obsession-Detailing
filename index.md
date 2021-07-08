@@ -32,12 +32,13 @@ Process can take 2-5 days.
 Fantastic, durable all weather coating perfect for someone who wants the slippery surface effect of a ceramic coating without the price tag.  
 ### Priced from £50.00
 
-- ### Ceramic Coating 2-5 Years
+- ### Ceramic Coating 1-5 Years
 Ceramic Coating is a form of paint protection, designed to leave a strong bond over the paintwork which helps protect the surface against salt, dirt, tar, treesap, bird droppings,
 UV rays and harsh chemicals. 
 Ceramic Coating helps the vehicle to stay cleaner for longer with its hydrophobic qualities and makes washing the vehicle a lot easier. 
 Ceramic Coating also increases gloss levels.
-### Priced from £150.00 (size dependant)
+We offer 3 different ceramic coatings varying in longevity and performance. 
+### Priced from £100.00 (size dependant)
 
 - ### Glass Coating upto 2 Years
 Protection against road grime and salts that tend to reduce vision. 
