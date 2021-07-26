@@ -1,0 +1,87 @@
+// Typography styles
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: bold;
+	line-height: 1.2;
+}
+
+h1 {
+	font-size: 4.8rem;
+}
+
+h2 {
+	font-size: 3.4rem;
+}
+
+h3 {
+	font-size: 3rem;
+}
+
+h4 {
+	font-size: 2.6rem;
+}
+
+h5 {
+	font-size: 2.1rem;
+}
+
+h6 {
+	font-size: 1.9rem;
+}
+
+p {
+	font-size: 1.9rem;
+	line-height: 1.55;
+}
+
+ul, ol {
+	padding-left: 15px;
+}
+
+ul {
+	list-style: disc;
+}
+
+ol {
+	list-style: decimal;
+}
+
+b,
+strong {
+	font-weight: bold;
+}
+
+em {
+	font-style: italic;
+}
+
+li {
+	margin-bottom: 5px;
+
+	&:last-of-type {
+		margin-bottom: 0;
+	}
+}
+
+a {
+	transition: $hover-fade;
+	text-decoration: none;
+	color: $color;
+
+	&:visited {
+	}
+
+	&:active {
+	}
+
+	&:focus {
+
+    } 
+    &:hover {
+
+	}
+}
+
+small {
+	font-size: 1.3rem; // 14px;
+}
