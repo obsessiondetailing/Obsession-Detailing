@@ -1,8 +1,9 @@
 // Typography styles
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4{
 	font-weight: bold;
 	line-height: 1.2;
+	margin-bottom: 10px;
 }
 
 h1 {
@@ -23,6 +24,10 @@ h4 {
 
 p {
 	font-size: 1.6rem;
+
+	&:not(:last-of-type) {
+		margin-bottom: 10px;
+	}
 }
 
 ul, ol {
@@ -59,17 +64,8 @@ a {
 	text-decoration: none;
 	color: $black;
 
-	&:visited {
-	}
-
-	&:active {
-	}
-
-	&:focus {
-
-    } 
-    &:hover {
-
+	&:hover, &:active, &:focus {
+		color: $primary; 
 	}
 }
 

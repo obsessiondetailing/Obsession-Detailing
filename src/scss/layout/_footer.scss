@@ -1,1 +1,19 @@
 // Footer styling
+
+.footer {
+    background-color: $black;
+    width: 100%;
+    @include section-padding();
+
+    p, a {
+        color: $white;
+    }
+
+    p {
+        text-align: center;
+    }
+
+    a {
+        text-decoration: underline;
+    }
+}

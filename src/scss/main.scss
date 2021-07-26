@@ -1,6 +1,7 @@
 // Variables
 @import
-  'abstracts/variables';
+  'abstracts/variables',
+  'abstracts/mixins';
 
 // Base
 @import
@@ -17,6 +18,7 @@
   'layout/header',
   'layout/navigation',
   'layout/banner',
+  'layout/content',
   'layout/footer';
 
 // Pages

@@ -1,0 +1,49 @@
+.intro {
+    @include section-spacing;
+}
+
+.service {
+    background-color: $grey;
+    @include section-spacing;
+
+    &__content {
+        @include section-padding;
+    }
+
+    &__image {
+        overflow: hidden;
+        position: relative;
+        height: 130px;
+
+        img {
+            width: 100%;
+            height: auto;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    }
+}
+
+.trusted-products {
+    ul {
+        @include ul-reset();
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+
+        li {
+            width: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 0;
+        }
+
+        img {
+            width: 100%;
+            max-width: 90px;
+        }
+    }
+}

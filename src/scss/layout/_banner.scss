@@ -2,8 +2,8 @@
 
 .banner {
     background-color: $primary;
-    margin-bottom: 20px;
-
+    @include section-spacing;
+    
     img {
         width: 100%;
     }

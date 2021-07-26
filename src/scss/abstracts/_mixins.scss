@@ -1,0 +1,15 @@
+// Mixin styling
+
+// Add some universal padding 
+@mixin section-spacing() {
+    margin-bottom: 20px;
+}
+
+@mixin section-padding() {
+    padding: 20px;
+}
+
+@mixin ul-reset() {
+    list-style: none;
+    padding-left: 0;
+}
