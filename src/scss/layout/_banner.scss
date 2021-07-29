@@ -2,9 +2,33 @@
 
 .banner {
     background-color: $primary;
+    background: radial-gradient($primary-two, $primary);
     @include section-spacing;
     
     img {
+        width: 100%;    
+        max-width: 257px;
+        margin: 30px auto;
+        display: block;
+
+        @media screen and (min-width: 768px) {
+            margin-top: 50px;
+            margin-bottom: 50px;
+        }
+    }
+
+    a {
         width: 100%;
+        text-align: center;
+        color: $black;
+        margin-bottom: 20px;
+        font-size: 1.8rem;
+        display: block;
+        font-weight: bold;
+
+        @media screen and (min-width: 768px) {
+            margin-bottom: 50px;
+            font-size: 2rem;
+        }
     }
 }

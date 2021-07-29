@@ -2,11 +2,28 @@
 
 // Add some universal padding 
 @mixin section-spacing() {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
+
+    @media screen and (min-width: 768px) {
+        margin-bottom: 50px;
+    }
+
+    @media screen and (min-width: 1024px) {
+        margin-bottom: 80px;
+    }
+
+    @media screen and (min-width: 1200px) {
+        margin-bottom: 100px;
+    }
+
 }
 
 @mixin section-padding() {
-    padding: 20px;
+    padding: 30px;
+
+    @media screen and (min-width: 768px) {
+        padding: 50px;
+    }
 }
 
 @mixin ul-reset() {
