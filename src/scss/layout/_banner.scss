@@ -2,7 +2,6 @@
 
 .banner {
     background-color: $primary;
-    background: radial-gradient($primary-two, $primary);
     @include section-spacing;
     
     img {
