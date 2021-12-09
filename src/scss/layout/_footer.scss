@@ -1,0 +1,24 @@
+// Footer styling
+
+.footer {
+    background-color: $black;
+    width: 100%;
+    @include section-padding();
+
+    @media screen and (min-width: 768px) {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    p, a {
+        color: $white;
+    }
+
+    p {
+        text-align: center;
+    }
+
+    a {
+        text-decoration: underline;
+    }
+}
